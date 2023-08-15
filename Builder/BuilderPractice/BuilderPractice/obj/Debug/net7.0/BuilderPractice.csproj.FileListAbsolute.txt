@@ -1,0 +1,15 @@
+F:\projects\softelligence\demoProjects\DesignPatternsPractice\Builder\BuilderPractice\BuilderPractice\bin\Debug\net7.0\BuilderPractice.exe
+F:\projects\softelligence\demoProjects\DesignPatternsPractice\Builder\BuilderPractice\BuilderPractice\bin\Debug\net7.0\BuilderPractice.deps.json
+F:\projects\softelligence\demoProjects\DesignPatternsPractice\Builder\BuilderPractice\BuilderPractice\bin\Debug\net7.0\BuilderPractice.runtimeconfig.json
+F:\projects\softelligence\demoProjects\DesignPatternsPractice\Builder\BuilderPractice\BuilderPractice\bin\Debug\net7.0\BuilderPractice.dll
+F:\projects\softelligence\demoProjects\DesignPatternsPractice\Builder\BuilderPractice\BuilderPractice\bin\Debug\net7.0\BuilderPractice.pdb
+F:\projects\softelligence\demoProjects\DesignPatternsPractice\Builder\BuilderPractice\BuilderPractice\obj\Debug\net7.0\BuilderPractice.csproj.AssemblyReference.cache
+F:\projects\softelligence\demoProjects\DesignPatternsPractice\Builder\BuilderPractice\BuilderPractice\obj\Debug\net7.0\BuilderPractice.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\softelligence\demoProjects\DesignPatternsPractice\Builder\BuilderPractice\BuilderPractice\obj\Debug\net7.0\BuilderPractice.AssemblyInfoInputs.cache
+F:\projects\softelligence\demoProjects\DesignPatternsPractice\Builder\BuilderPractice\BuilderPractice\obj\Debug\net7.0\BuilderPractice.AssemblyInfo.cs
+F:\projects\softelligence\demoProjects\DesignPatternsPractice\Builder\BuilderPractice\BuilderPractice\obj\Debug\net7.0\BuilderPractice.csproj.CoreCompileInputs.cache
+F:\projects\softelligence\demoProjects\DesignPatternsPractice\Builder\BuilderPractice\BuilderPractice\obj\Debug\net7.0\BuilderPractice.dll
+F:\projects\softelligence\demoProjects\DesignPatternsPractice\Builder\BuilderPractice\BuilderPractice\obj\Debug\net7.0\refint\BuilderPractice.dll
+F:\projects\softelligence\demoProjects\DesignPatternsPractice\Builder\BuilderPractice\BuilderPractice\obj\Debug\net7.0\BuilderPractice.pdb
+F:\projects\softelligence\demoProjects\DesignPatternsPractice\Builder\BuilderPractice\BuilderPractice\obj\Debug\net7.0\BuilderPractice.genruntimeconfig.cache
+F:\projects\softelligence\demoProjects\DesignPatternsPractice\Builder\BuilderPractice\BuilderPractice\obj\Debug\net7.0\ref\BuilderPractice.dll
